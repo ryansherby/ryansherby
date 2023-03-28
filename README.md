@@ -12,8 +12,8 @@ Lost like a breath to the breeze,
 
 An idea that rests in the hand,  
 Is a seed to be sown in the land,  
-A small sprout will grow,  
-By a spark melting snow,    
+As a sprout it will grow,  
+With a spark melting snow,    
 Shone brightly from your lantern of gold,  
 
 Soon trees will dawn,   
