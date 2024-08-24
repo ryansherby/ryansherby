@@ -20,8 +20,9 @@ Soon trees will dawn,
 Bark thick and of brawn,  
 A forest built to be old  
 
-// ![A tall lantern over the forest](HighLantern-2b3-Smaller.png)
-
+<!--
+![A tall lantern over the forest](HighLantern-2b3-Smaller.png)
+-->
 
 
 
